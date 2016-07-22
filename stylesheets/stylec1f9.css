@@ -329,7 +329,7 @@ header {position: fixed; left: 0px; top: 0px; height: 50px; width: 100%; z-index
 header.fix {  height: 60px;background-color:rgba(255,255,255,0.9);}
 
 img{max-width: 100%}
-.logo img{max-width: none !important}
+.logo img{max-width: none !important; width:200px;}
 .logo a {color: #000;font-size: 20px; line-height: 26px; text-align: center; font-weight: 300; text-transform: uppercase; letter-spacing: 5px;}
 
 
