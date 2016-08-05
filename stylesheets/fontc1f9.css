@@ -341,3 +341,9 @@ you can use the generic selector below, but it's slower:
 .icon-dribbble:before {
 	content: "\e063";
 }
+.govindasamy{margin-top: -224px;
+float: left;
+width: 200px;
+border: 4px solid rgb(238, 238, 238);
+	border-radius:100%;
+}
