@@ -1059,7 +1059,7 @@ screen and (max-device-width: 1024px) and (orientation: landscape) {
     height: 136px;
    /* background: url(../images/smallbutmighty.png) no-repeat top left;*/
     text-indent: -99000px;
-    margin: 0 0 0 35px;
+    margin: 9px -45px 0 0;
     overflow: hidden;
     position: relative
 }
