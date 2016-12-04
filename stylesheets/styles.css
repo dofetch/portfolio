@@ -5524,6 +5524,15 @@ margin-bottom: 200px;
 .tagline{font-weight:200}
 .clearfix{content:""; float:none; clear:both;}
 
+.social-icon img {width:20px; margin:0 auto;}
+.social-icon{background-color: #0B707D;
+	padding: 12px;}
+.social-icon:hover{background-color:#0BB1C5; }
+
+.logo-desc{text-align:center; font-weight:200; font-size:27px;}
+
+.logo-panel img{margin:0 auto; display:block}
+
 @media screen and (max-width: 767px) {
 	.portfolio .header-wrapper {
     
